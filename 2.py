@@ -1,3 +1,3 @@
 print("2nd file")
-print("main's changes in MC")
+print("this is selected by a merge conflict final to create a PR or MC")
 print("version 4")
